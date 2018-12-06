@@ -26,7 +26,7 @@ class Article extends Resource
     public function with($request) {
         return [
             'version' => '1.0.0',
-            'author_url' => url('http://traversymedia.com')
+            'author_url' => url('https://mohsenbostan.ir')
         ];
     }
 }

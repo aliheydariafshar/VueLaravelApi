@@ -51,8 +51,8 @@ article_id/title/body
 
 ### Author
 
-Mohsen Bostan
-[Website](https://mohsenbostan.ir)
+Ali heydari
+[Website](https://realali.ir)
 
 ### Version
 
